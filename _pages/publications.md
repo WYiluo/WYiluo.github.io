@@ -15,7 +15,9 @@ Publications
 ===
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">An Empirical Analysis of the Nostr Social Network: Decentralization, Availability, and Replication Overhead</span></font>  
-<font size="3"><b>Yiluo Wei</b>, Gareth Tyson</font><br><font size="3"><i>CoNEXT '25: The 21st International Conference on emerging Networking EXperiments and Technologies</i></font> [[PDF]](https://arxiv.org/pdf/2402.05709) 
+<font size="3"><b>Yiluo Wei</b>, Gareth Tyson</font>
+
+<font size="3"><i>CoNEXT '25: The 21st International Conference on emerging Networking EXperiments and Technologies</i></font> [[PDF]](https://arxiv.org/pdf/2402.05709) 
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Understanding Fanchuan in Livestreaming Platforms: A New Form of Online Antisocial Behavior</span></font> 
