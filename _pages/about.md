@@ -12,7 +12,7 @@ redirect_from:
 Biography
 ======
 I am a final-year PhD candidate at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. Gareth Tyson.
-I obtained my Bachelor's degree with first-class honours at the Australian National University.
+I graduated with first-class honours in my Bachelor's degree from the Australian National University.
 
 Research
 ======
