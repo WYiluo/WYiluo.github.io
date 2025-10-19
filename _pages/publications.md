@@ -9,7 +9,8 @@ Preprints
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Even More Kawaii than Real-Person-Driven VTubers? Understanding How Viewers Perceive AI-Driven VTubers</span></font> 
 - <font size="3"><b>Yiluo Wei</b>, Yupeng He, Gareth Tyson</font>
-- <font size="3"><i>arXiv Preprint</i> [[PDF]](https://arxiv.org/pdf/2509.20817)</font>
+- <font size="3"><i>arXiv Preprint</i>
+- [[PDF]](https://arxiv.org/pdf/2509.20817)</font>
 
 Publications
 ===
