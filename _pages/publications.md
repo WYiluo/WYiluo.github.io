@@ -22,7 +22,7 @@ Publications
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Understanding Fanchuan in Livestreaming Platforms: A New Form of Online Antisocial Behavior</span></font> 
-- <font size="3"><b>Yiluo Wei</b>, Jiahui He, Gareth Tyson</font>-
+- <font size="3"><b>Yiluo Wei</b>, Jiahui He, Gareth Tyson</font>
 - <font size="3"><i>CSCW '25: The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing</i></font>
 - [[PDF]](https://arxiv.org/pdf/2509.00780)
 
