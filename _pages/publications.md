@@ -15,6 +15,10 @@ Preprints
 Publications
 ===
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Benchmarking and Understanding Safety Risks in AI Character Platforms</span></font>  
+- <font size="3"><b>Yiluo Wei</b>, Peixian Zhang, Gareth Tyson</font>
+- <font size="3"><i>NDSS '26: The Network and Distributed System Security Symposium 2026</i></font>
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">An Empirical Analysis of the Nostr Social Network: Decentralization, Availability, and Replication Overhead</span></font>  
 - <font size="3"><b>Yiluo Wei</b>, Gareth Tyson</font>
 - <font size="3"><i>CoNEXT '25: The 21st International Conference on emerging Networking EXperiments and Technologies</i></font>
