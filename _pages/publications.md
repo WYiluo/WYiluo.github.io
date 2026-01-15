@@ -15,10 +15,16 @@ Preprints
 Publications
 ===
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Understanding the Consequences of VTuber Reincarnation</span></font>  
+- <font size="3"><b>Yiluo Wei</b>, Gareth Tyson</font>
+- <font size="3"><i>WWW '26: The ACM Web Conference 2026 (Web4Good)</i></font>
+- [[PDF]](https://arxiv.org/pdf/2601.08972)
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Benchmarking and Understanding Safety Risks in AI Character Platforms</span></font>  
 - <font size="3"><b>Yiluo Wei</b>, Peixian Zhang, Gareth Tyson</font>
 - <font size="3"><i>NDSS '26: The Network and Distributed System Security Symposium 2026</i></font>
-- [[PDF]](https://arxiv.org/abs/2512.01247) 
+- [[PDF]](https://arxiv.org/pdf/2512.01247) 
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">An Empirical Analysis of the Nostr Social Network: Decentralization, Availability, and Replication Overhead</span></font>  
