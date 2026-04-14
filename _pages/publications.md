@@ -60,7 +60,13 @@ Publications
 ### <font size="3"><span style="color:rgb(0, 119, 181)">The Eternal Tussle: Exploring the Role of Centralization in IPFS</span></font> 
 - <font size="3"><b>Yiluo Wei</b>, Dennis Trautwein, Yiannis Psaras, Ignacio Castro, Will Scott, Aravindh Raman, Gareth Tyson</font>
 - <font size="3"><i>NSDI '24: The 21st USENIX Symposium on Networked Systems Design and Implementation</i></font>
-- [[PDF]](https://www.usenix.org/system/files/nsdi24-wei.pdf) 
+- [[PDF]](https://www.usenix.org/system/files/nsdi24-wei.pdf)
+
+
+### <font size="3"><span style="color:rgb(0, 119, 181)">Enhancing Content Moderation with LLMs: A Reddit Case Study on Evaluating and Refining Human Decisions</span></font>  
+- <font size="3">Jiahui He, <b>Yiluo Wei</b>, Gareth Tyson</font>
+- <font size="3"><i>WWW '26: The ACM Web Conference 2026 (Web4Good)</i></font>
+- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3774904.3792999)
 
 
 ### <font size="3"><span style="color:rgb(0, 119, 181)">IPFS in the Fast Lane: Accelerating Record Storage with Optimistic Provide</span></font> 
