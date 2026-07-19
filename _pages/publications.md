@@ -15,6 +15,12 @@ Preprints
 Publications
 ===
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Navigating the Open-Source Model Ecosystem: An Empirical Study of Creator Practices in Artistic Image Generation</span></font>  
+- <font size="3"><b>Yiluo Wei</b>, Yupeng He, Qiming Ye, Gareth Tyson</font>
+- <font size="3"><i>MM '26: The 34th ACM International Conference on Multimedia</i></font>
+- [[PDF]](https://arxiv.org/pdf/2607.10538)
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Understanding the Consequences of VTuber Reincarnation</span></font>  
 - <font size="3"><b>Yiluo Wei</b>, Gareth Tyson</font>
 - <font size="3"><i>WWW '26: The ACM Web Conference 2026 (Web4Good)</i></font>
