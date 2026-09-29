@@ -15,6 +15,12 @@ Preprints
 Publications
 ===
 
+### <font size="3"><span style="color:rgb(0, 119, 181)">Internet in Africa: A Quantitative Study of the Impact of Infrastructure Development</span></font>  
+- <font size="3"><b>Yiluo Wei</b>, Jiahui He, Amreesh Phokeer, Theophilus Benson, Gareth Tyson</font>
+- <font size="3"><i>IMC '26: Proceedings of the 2026 ACM Internet Measurement Conference</i></font>
+- [[PDF]](https://dl.acm.org/doi/10.1145/3777912.3839834)
+
+
 ### <font size="3"><span style="color:rgb(0, 119, 181)">Navigating the Open-Source Model Ecosystem: An Empirical Study of Creator Practices in Artistic Image Generation</span></font>  
 - <font size="3"><b>Yiluo Wei</b>, Yupeng He, Qiming Ye, Gareth Tyson</font>
 - <font size="3"><i>MM '26: The 34th ACM International Conference on Multimedia</i></font>
